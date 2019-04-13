@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#08d9c3</color>
+    <color name="colorPrimaryDark">#2a9866</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue">#f12636ac</color>
+    <color name="white">#f1ffffff</color>
+    <color name="twitter">#f12cadb3</color>
+    <color name="red">#f1f52b32</color>
+</resources>
